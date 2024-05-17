@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "id": "7998",
+      "nombre": "Irania",
+      "apellido": "fgdf",
+      "email": "dfgdf@dd.do",
+      "telefono": "123-123-1111",
+      "estado": false
+    },
+    {
+      "id": "2ebb",
+      "nombre": "asdfs",
+      "apellido": "dsfdsf",
+      "email": "sdd@dd.do",
+      "estado": true
+    },
+    {
+      "id": "20a2",
+      "nombre": "Ambar",
+      "apellido": "Ballen",
+      "email": "scsd@ddd.od",
+      "estado": false
+    },
+    {
+      "id": "52e7",
+      "nombre": "Salome",
+      "apellido": "Ballen",
+      "email": "salome@correo.com",
+      "estado": true
+    },
+    {
+      "id": "44e5",
+      "nombre": "vdfgvd",
+      "apellido": "gfhdg",
+      "email": "gdfd@dd.do",
+      "estado": 0
+    }
+  ]
+}
