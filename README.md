@@ -44,6 +44,15 @@ Para ejecutar el JSON Server y simular una base de datos, usa el siguiente coman
 json-server --watch db.json
 ```
 
+### CONFIG .env.local
+
+VITE_FIREBASE_API_KEY = AIzaSyCKxv_Ox1qxc4YMvyiNUOAw8ZngJUygCx0
+VITE_FIREBASE_AUTH_DOMAIN = vue-listado-clientes.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID =  vue-listado-clientes
+VITE_FIREBASE_STORAGE_BUCKET =  vue-listado-clientes.appspot.com
+VITE_FIREBASE_MESSAGING_SENDER_ID =  962955410361
+VITE_FIREBASE_APP_ID = 1:962955410361:web:cc77fb51c8931d74f11468
+
 ### Datos de prueba
 
 Para ingresar y tener una interacción completa con la aplicación, usa las siguientes credenciales:
